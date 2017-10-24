@@ -3,4 +3,4 @@ python:
   "3.6"
 
 script:
-  pytest test_primer.py
+  python test_primerp.py
