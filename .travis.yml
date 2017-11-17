@@ -3,4 +3,4 @@ python:
   "3.6"
 
 script:
-  python testTime.py
+  python test_drawing_book.py
